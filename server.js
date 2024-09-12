@@ -26,22 +26,3 @@ app.use('/menu',menuitemRoutes);
 
 app.listen(3000)
 
-// {
-//     "name": "noodles",
-//     "price": 500,
-//     "taste": "spicy",
-//     "is_drink": "true",
-//     "ingredients": "soos",
-//     "num_sales": 2
-// }
-
-
-// {
-//     "name":"manu kumari",
-//     "age": 25,
-//     "work": "chef",
-//     "mobile":7846736387,
-//     "email":"manu@example.com",
-//     "address":"gurdaspur",
-//     "salary":300000
-// }
